@@ -28,7 +28,8 @@ def drinks():
                     'success': True,
                     'drinks': [drink.short() for drink in Drink.query.all()]
                 }), 200
-            except Exception:
+            except Exception as e:
+                print(e)
                 abort(404)
         return get_drinks()
 
@@ -45,7 +46,8 @@ def drinks():
                     "success": True,
                     "drinks": [new_drink.long()]
                 }), 200
-            except Exception:
+            except Exception as e:
+                print(e)
                 abort(422)
         return create_drink()
 
@@ -59,7 +61,8 @@ def get_drinks_detail(payload):
             'success': True,
             'drinks': [drink.long() for drink in Drink.query.all()]
         }), 200
-    except Exception:
+    except Exception as e:
+        print(e)
         abort(404)
 
 
@@ -78,7 +81,8 @@ def alter_drinks(drink_id):
                     'success': True,
                     'drinks': [drink.long()]
                 }), 200
-            except Exception:
+            except Exception as e:
+                print(e)
                 abort(404)
         return update_drinks(drink_id)
 
@@ -93,7 +97,8 @@ def alter_drinks(drink_id):
                     "success": True,
                     "delete": drink.id
                 }), 200
-            except Exception:
+            except Exception as e:
+                print(e)
                 abort(404)
         return delete_drink()
 
