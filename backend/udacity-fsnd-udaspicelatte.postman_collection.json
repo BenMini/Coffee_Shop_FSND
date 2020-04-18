@@ -34,12 +34,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -65,12 +61,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks-detail",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks-detail"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks-detail" ]
 						}
 					},
 					"response": []
@@ -96,12 +88,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -127,13 +115,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -159,13 +142,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -201,12 +179,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -232,12 +206,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks-detail",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks-detail"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks-detail" ]
 						}
 					},
 					"response": []
@@ -273,12 +243,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -304,13 +270,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -336,13 +297,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -364,9 +320,7 @@
 					"script": {
 						"id": "f985b22c-34c4-4cfe-8308-f6fb98d799ac",
 						"type": "text/javascript",
-						"exec": [
-							""
-						]
+						"exec": [ "" ]
 					}
 				},
 				{
@@ -374,9 +328,7 @@
 					"script": {
 						"id": "596425ac-59b4-4488-9f07-4c748e1ad082",
 						"type": "text/javascript",
-						"exec": [
-							""
-						]
+						"exec": [ "" ]
 					}
 				}
 			]
@@ -410,12 +362,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -446,12 +394,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks-detail",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks-detail"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks-detail" ]
 						}
 					},
 					"response": []
@@ -488,12 +432,8 @@
 						},
 						"url": {
 							"raw": "{{host}}/drinks",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks" ]
 						}
 					},
 					"response": []
@@ -535,13 +475,8 @@
 						},
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -567,13 +502,8 @@
 						"header": [],
 						"url": {
 							"raw": "{{host}}/drinks/1",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"drinks",
-								"1"
-							]
+							"host": [ "{{host}}" ],
+							"path": [ "drinks", "1" ]
 						}
 					},
 					"response": []
@@ -595,9 +525,7 @@
 					"script": {
 						"id": "113ee6fe-418d-4bf4-a641-444b5816e46b",
 						"type": "text/javascript",
-						"exec": [
-							""
-						]
+						"exec": [ "" ]
 					}
 				},
 				{
@@ -605,9 +533,7 @@
 					"script": {
 						"id": "5704da6d-dc7e-42b9-8214-aa7ecf075bca",
 						"type": "text/javascript",
-						"exec": [
-							""
-						]
+						"exec": [ "" ]
 					}
 				}
 			]
@@ -619,9 +545,7 @@
 			"script": {
 				"id": "fc871e59-eaa4-46e8-975b-87b750ad1804",
 				"type": "text/javascript",
-				"exec": [
-					""
-				]
+				"exec": [ "" ]
 			}
 		},
 		{
@@ -629,9 +553,7 @@
 			"script": {
 				"id": "e5766f23-c7f1-472b-ae34-825a91147815",
 				"type": "text/javascript",
-				"exec": [
-					""
-				]
+				"exec": [ "" ]
 			}
 		}
 	],
